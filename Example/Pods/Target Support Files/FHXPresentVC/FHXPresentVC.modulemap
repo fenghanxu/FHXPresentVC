@@ -1,0 +1,6 @@
+framework module FHXPresentVC {
+  umbrella header "FHXPresentVC-umbrella.h"
+
+  export *
+  module * { export * }
+}
